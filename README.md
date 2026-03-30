@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="asset.png" alt="CodeBrew Banner" width="800">
+</p>
+
+
 # ☕ CodeBrew Platform – Fuel for Devs
 
 > **The first coffee shop where your logic pays the bills.** > Stop debugging on empty—solve challenges, earn XP, and unlock real-world coffee rewards. 🚀
