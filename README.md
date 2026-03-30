@@ -49,5 +49,3 @@ What feature should I ship next?
 Drop a ⭐ if you think developers deserve better coffee!
 
 🔗 Start your Quest: codebrewbeans.com
-
-🔗 Start your Quest: codebrewbeans.com
