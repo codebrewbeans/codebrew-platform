@@ -14,7 +14,7 @@ Forget boring loyalty points. Here’s how you level up your setup:
 
 1.  **Solve Coding Challenges:** Algorithms, Logic puzzles, and Bit Manipulation.
 2.  **Earn XP:** Gain experience with every solved quest.
-3.  **Unlock Rewards:** Leveling up grants you permanent discounts (up to 20%) on our roasts like **"BUGFIX"**.
+3.  **Unlock Rewards:** Leveling up grants you discounts (up to 20%) on our roasts like **"BUGFIX"**.
 
 ---
 
