@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="asset.png" alt="CodeBrew Banner" width="800">
+  <img src="asset-img.png" alt="CodeBrew Banner" width="800">
 </p>
 
 
