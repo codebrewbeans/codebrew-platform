@@ -14,11 +14,11 @@ No boring loyalty points. Here, you earn your discount:
 ### Why I built this:
 I wanted a brand that speaks our language—not just aesthetically, but through action. The coffee is the reward for the work.
 
-The Vision & Rewards:
+###The Vision & Rewards:
 Level 10 gets you 20% off – but that’s just the v1.0. My goal is to expand the reward system as the community grows.
 
-Feedback & Contribution
-I’m a solo dev, so I’m looking for brutal feedback:
+###Feedback & Contribution
+#I’m a solo dev, so I’m looking for brutal feedback:
 
 How’s the UI?
 Are the challenges too easy/hard?
